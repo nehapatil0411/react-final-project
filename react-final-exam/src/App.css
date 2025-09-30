@@ -1,0 +1,72 @@
+.main
+{
+  overflow: hidden;
+}
+.heading
+{
+  position: relative;
+  top:10px;
+  left: 600px;
+}
+
+.box
+{
+  display: flex;
+  justify-content:space-around;
+  flex-wrap: wrap;
+}
+h2
+{
+  font-size:30px;
+  position: relative;
+  bottom: 20px;
+}
+.id
+{
+  position: relative;
+  left:5px;
+  top:5px;
+}
+.title
+{
+  position: relative;
+  height:20px;
+  font-size: 28px;
+  left:50px;
+  bottom:65px;
+  color:rgb(17, 17, 18)
+}
+.category
+{
+  font-size:25px;
+  position: relative;
+  margin-left:50px;
+  color:rgb(89, 87, 87);
+  bottom:40px;
+}
+.price
+{
+  font-size:20px;
+  height:10px;
+  position: relative;
+  margin-left:50px;
+  bottom:30px;
+}
+.info
+{
+  height:300px;
+  width:300px;
+}
+.edit
+{
+  background-color: rgb(105, 215, 215);
+  position: relative;
+  left:50px;
+
+}
+.delete
+{
+  background-color: red;
+  position: relative;
+  left:90px;
+}

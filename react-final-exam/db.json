@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "category": "Electronics",
+      "price": 50000,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 2,
+      "title": "Office Chair",
+      "category": "Furniture",
+      "price": 7000,
+      "image": "https://images.pexels.com/photos/813691/pexels-photo-813691.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 3,
+      "title": "Smartphone",
+      "category": "Electronics",
+      "price": 25000,
+      "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 4,
+      "title": "Dining Table",
+      "category": "Furniture",
+      "price": 15000,
+      "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 5,
+      "title": "Headphones",
+      "category": "Electronics",
+      "price": 3000,
+      "image": "https://images.pexels.com/photos/1591/headphones-close-up-music-blur.jpg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 6,
+      "title": "Refrigerator",
+      "category": "Appliances",
+      "price": 35000,
+      "image": "https://images.pexels.com/photos/373769/pexels-photo-373769.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 7,
+      "title": "Microwave Oven",
+      "category": "Appliances",
+      "price": 12000,
+      "image": "https://images.pexels.com/photos/15911/microwave-kitchen.jpg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 8,
+      "title": "Bookshelf",
+      "category": "Furniture",
+      "price": 8000,
+      "image": "https://images.pexels.com/photos/245208/pexels-photo-245208.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 9,
+      "title": "Wrist Watch",
+      "category": "Accessories",
+      "price": 5000,
+      "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 10,
+      "title": "Running Shoes",
+      "category": "Sports",
+      "price": 4000,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 11,
+      "title": "Water Bottle",
+      "category": "Kitchen",
+      "price": 500,
+      "image": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 12,
+      "title": "Notebook",
+      "category": "Stationery",
+      "price": 100,
+      "image": "https://images.pexels.com/photos/606541/pexels-photo-606541.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 13,
+      "title": "Backpack",
+      "category": "Bags",
+      "price": 2000,
+      "image": "https://images.pexels.com/photos/374574/pexels-photo-374574.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 14,
+      "title": "Table Lamp",
+      "category": "Home Decor",
+      "price": 1500,
+      "image": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 15,
+      "title": "Electric Kettle",
+      "category": "Appliances",
+      "price": 2500,
+      "image": "https://images.pexels.com/photos/266414/pexels-photo-266414.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 16,
+      "title": "Jeans",
+      "category": "Clothing",
+      "price": 1800,
+      "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 17,
+      "title": "T-Shirt",
+      "category": "Clothing",
+      "price": 800,
+      "image": "https://images.pexels.com/photos/1002644/pexels-photo-1002644.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 18,
+      "title": "The Secret",
+      "category": "Books",
+      "price": 400,
+      "image": "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 19,
+      "title": "Guitar",
+      "category": "Musical Instruments",
+      "price": 12000,
+      "image": "https://images.pexels.com/photos/164936/pexels-photo-164936.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 20,
+      "title": "Cricket Bat",
+      "category": "Sports",
+      "price": 3500,
+      "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}
